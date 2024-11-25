@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Trinitygamer0
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning JavaScript
+- 👋 Hi, I’m Ashutosh Pandey
+- 👀 I’m interested in web development and LLMs
+- 🌱 I’m currently learning Frontend, Python and C.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
